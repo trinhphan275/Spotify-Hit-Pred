@@ -21,23 +21,8 @@ This project applies machine learning techniques to predict hit songs on Spotify
 - **Logistic Regression** was the most accurate model at 93%.
 - **SVM** was the most resource-efficient model, consuming the least memory while maintaining good performance.
 
-## Installation and Usage
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/spotify-hit-prediction.git
-   cd spotify-hit-prediction
-   ```
-2. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Run the model training and prediction script:
-   ```sh
-   python train_model.py
-   ```
-
 ## Requirements
 - Python 3.8+
-- Pandas, NumPy, Scikit-Learn, Matplotlib, and other dependencies listed in `requirements.txt`.
+- Pandas, NumPy, Scikit-Learn, Matplotlib, and other dependencies.
 
 
